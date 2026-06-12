@@ -1,7 +1,7 @@
 # Hi, I'm Amalki Fernando 👋
 
 🎓 **BSc (Hons) in IT Specialising in Artificial Intelligence Undergraduate** <br>
-🧠 **Passionate about AI Engineering & Data Science**
+🧠 **Passionate about AI Engineering & Data Science** <br>
 📍 **Sri Lanka**
 
 ---
