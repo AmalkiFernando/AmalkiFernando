@@ -165,8 +165,6 @@
   </tr>
 </table>
 
----
-
 ## 🐍 Contribution Snake
 
 <picture>
